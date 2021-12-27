@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Calc</string>
+    <string name="calc_btn_name">Вычислить</string>
+    <string name="ex_num_arg">Неправильное колличество аргументов</string>
+    <string name="ex_operator">Введён неправильный оператор</string>
+    <string name="ex_to_double">Введён неправильный аргумент</string>
+    <string name="ex_split_space">Выражение введено непраивльно</string>
+    <string name="entry_conditions">Условия выражения:
+        1. Выражение состояит только из двух аргументов и оператора между ними
+        2. Между аргументом и оператором ставится пробел</string>
+</resources>

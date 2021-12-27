@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Calc</string>
+    <string name="calc_btn_name">Calculate</string>
+    <string name="ex_num_arg">Invalid number of arguments</string>
+    <string name="ex_operator">Entered invalid operator</string>
+    <string name="ex_to_double">Entered invalid arguments</string>
+    <string name="ex_split_space">The expression entered is invalid</string>
+    <string name="entry_conditions">Expression conditions:\n
+        1. An expression consists of only two arguments and an operator between them\n
+        2. A space is placed between the argument and the operator</string>
+</resources>
